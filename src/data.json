@@ -1,0 +1,123 @@
+[
+    {
+      "id": "1",
+      "image": "fon2.jpg",
+      "title": "Apple Mobile",
+      "description": "Experience the latest in mobile technology with the Apple Mobile. This high-end smartphone is packed with advanced features, a stunning display, and a powerful camera that will capture your moments in incredible detail. Whether you're a photography enthusiast or a power user, the Apple Mobile is designed to exceed your expectations. Stay connected, work, and play like never before.",
+      "price": 100000,
+      "stock": 4
+    },
+    {
+      "id": "2",
+      "image": "fon1.jpeg",
+      "title": "Vivo Y22",
+      "description": "The Vivo Y22 is a mid-range smartphone that's known for its exceptional camera capabilities. Capture stunning photos and videos with ease, and enjoy a vibrant display that's perfect for multimedia. With its reliable performance, long battery life, and sleek design, the Vivo Y22 is your perfect companion for work and play.",
+      "price": 50000,
+      "stock": 5
+    },
+    {
+      "id": "3",
+      "image": "fon.png",
+      "title": "Vivo Y20",
+      "description": "The Vivo Y20 is a budget-friendly smartphone that doesn't compromise on quality. With its long-lasting battery, you can stay connected all day, and its efficient processor ensures smooth performance. Whether you're streaming, gaming, or working on the go, the Vivo Y20 has you covered.",
+      "price": 25000,
+      "stock": 10
+    },
+    {
+      "id": "4",
+      "image": "techno.jpeg",
+      "title": "Techno Spark",
+      "description": "Experience the power of the Techno Spark, a budget-friendly smartphone that offers impressive features. With a long-lasting battery, efficient processor, and vibrant display, it's perfect for your everyday tasks. Capture memories with its capable camera and enjoy a seamless mobile experience.",
+      "price": 25000,
+      "stock": 6
+    },
+    {
+      "id": "5",
+      "image": "tablet.jpeg",
+      "title": "Tablet",
+      "description": "Introducing our versatile tablet, your all-in-one solution for work and entertainment. With a large, high-resolution screen, it's perfect for watching movies, reading, and browsing the web. Its powerful processor ensures smooth multitasking, making it a valuable tool for professionals on the move.",
+      "price": 30000,
+      "stock": 2
+    },
+    {
+      "id": "6",
+      "image": "tablet.webp",
+      "title": "Apple Tablet",
+      "description": "Get ready to experience the power of Apple in a compact tablet form. Our Apple tablet offers the same excellence you expect from Apple products, now in a device that's perfect for on-the-go productivity and entertainment. Immerse yourself in stunning visuals and seamless performance with this sleek tablet.",
+      "price": 80000,
+      "stock": 7
+    },
+    {
+      "id": "7",
+      "image": "tablet2.jpeg",
+      "title": "Samsung Tablet",
+      "description": "Elevate your productivity with the Samsung Tablet, a compact powerhouse for work and play. Experience stunning visuals, efficient multitasking, and a sleek design that's perfect for on-the-go professionals. With Samsung's trusted quality, this tablet is designed to enhance your digital lifestyle.",
+      "price": 80000,
+      "stock": 5
+    },
+    {
+      "id": "8",
+      "image": "lap.jpg",
+      "title": "Hp Laptop",
+      "description": "Experience the power of the HP Laptop, designed for professionals seeking performance and reliability. With a sleek and robust design, this laptop is perfect for multitasking, content creation, and more. Get ready to elevate your work and entertainment experience with the HP Laptop.",
+      "price": 75000,
+      "stock": 7
+    },
+    {
+      "id": "9",
+      "image": "dell.jpeg",
+      "title": "Dell Laptop",
+      "description": "Experience the power of the Dell Laptop, a reliable companion for work and play. With its efficient performance, sleek design, and durable construction, it's perfect for students, professionals, and casual users alike. Get ready to elevate your computing experience with Dell.",
+      "price": 20000,
+      "stock": 7
+    },
+    {
+      "id": "10",
+      "image": "laptop.jpeg",
+      "title": "Lenovo Laptop",
+      "description": "Discover the perfect blend of performance and affordability with the Lenovo Laptop. Whether you're a student, a professional, or a casual user, Lenovo has a laptop to meet your needs. Enjoy a responsive user experience, robust build quality, and all the features you require for your daily tasks.",
+      "price": 50000,
+      "stock": 4
+    },
+    {
+      "id": "11",
+      "image": "lapi.webp",
+      "title": "Apple Tablet",
+      "description": "Experience the excellence of Apple in a portable and powerful device. Our Apple tablet is designed for those who demand nothing but the best. Whether you're creating, streaming, or simply enjoying content, this tablet delivers an exceptional experience.",
+      "price": 40000,
+      "stock": 9
+    },
+    {
+      "id": "12",
+      "image": "bag1.jpeg",
+      "title": "Laptop Bag",
+      "description": "Our durable and stylish laptop bag is designed for professionals on the go. It offers ample storage space and a well-organized interior, making it the perfect companion for your workday. Carry your laptop, accessories, and essentials with confidence and style.",
+      "price": 1000,
+      "stock": 10
+    },
+    {
+      "id": "13",
+      "image": "bag.jpeg",
+      "title": "Laptop Bag",
+      "description": "Our versatile laptop bag is designed to keep your devices safe and organized. With a sleek design and durable construction, it's a reliable choice for students and professionals alike. Carry your laptop and accessories with ease, and stay organized throughout the day.",
+      "price": 900,
+      "stock": 4
+    },
+    {
+      "id": "14",
+      "image": "bag3.webp",
+      "title": "Laptop Bag",
+      "description": "Experience the sleek and compact design of our laptop bag with ample storage space. Stay organized while on the move, and keep your laptop and accessories secure. With its modern design, it's the perfect choice for those who value both style and functionality.",
+      "price": 900,
+      "stock": 5
+    },
+    {
+      "id": "15",
+      "image": "download.jpeg",
+      "title": "Smart Watch",
+      "description": "Stay connected and track your fitness with our stylish smartwatch. This feature-packed device offers notifications, health monitoring, and a comfortable design. With its long battery life, it's your perfect companion for an active and connected lifestyle.",
+      "price": 1000,
+      "stock": 20
+    }
+  ]
+  
